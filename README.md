@@ -15,7 +15,7 @@
 ## 💼 Experience
 
 ### 🌟 **Fenado AI** — *Software Developer* (Apr 2025 – Present)  
-- 🤖 Built a **WhatsApp Reminder Chatbot** with Vertex AI, Firebase Functions & Google Cloud Scheduler.  
+- 🤖 Built a **WhatsApp Reminder AI Agent** with Vertex AI, Firebase Functions & Google Cloud Scheduler.  
 - ⚡ Optimized the Read Rush Flutter app using BLoC pattern, image caching & serverless Firebase.  
 - 🖥️ Developed a **responsive internal site for Spinny** with 30+ components using Next.js, React, and Shadcn.
 
